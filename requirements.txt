@@ -14,5 +14,4 @@ flask_cors>=1.10.3
 os-sys>=2.1.4
 os>=2.1.4
 psycopg2>=2.8.7
-open-cv>=4.3. 0
 re>=6.2
