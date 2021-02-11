@@ -11,5 +11,4 @@ statsmodels>=0.9.0
 
 jsonify>=0.5
 flask_cors>=1.10.3
-os-sys>=2.1.4
 psycopg2>=2.0.10
